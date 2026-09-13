@@ -1,0 +1,17 @@
+import { cn } from "@/lib/cn";
+
+export function KnightMark({ className }: { className?: string }) {
+  return (
+    <svg
+      viewBox="0 0 32 32"
+      className={cn("size-8", className)}
+      aria-hidden="true"
+    >
+      <rect width="32" height="32" rx="4" fill="currentColor" />
+      <path
+        d="M8 24h16v1.5H8V24zm2.2-2.2c.4-3.2 1.4-5.4 3.2-7.1-.8.2-1.7.3-2.6.2 1.3-1.8 3.2-3 5.5-4.1-.9.9-1.3 1.8-1.2 2.8 2.4-1.1 4.4-1.3 6.4-.4-1.5.2-2.6.8-3.3 1.7 2.1.2 3.6 1.3 4.4 3.1-1.6-.4-2.9-.3-3.8.3 1.6 1.4 2.4 3.1 2.6 5.5H10.2z"
+        fill="var(--color-bg)"
+      />
+    </svg>
+  );
+}

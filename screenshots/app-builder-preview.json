@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PALADIN",
+      "hasCanvas": false,
+      "bodyTextLen": 2958,
+      "bodyTextHash": "a1eb33f8252265b514abebd9b929ca7d651122dfe3fa99f4faaac868eac993ca",
+      "bodyTextPrefix": "PALADIN The brief Studio Rates Office SCOUT Hire Paladin DIGITAL",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PALADIN",
+      "hasCanvas": false,
+      "bodyTextLen": 2909,
+      "bodyTextHash": "9665b85182e9fd5c1352850f2c6d01a6566c21915d3614020caf44dd52b51e6b",
+      "bodyTextPrefix": "PALADIN DIGITAL FRONTIER POSSE · EST. TERRITORIAL COURT Have Bri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
